@@ -1,2 +1,2 @@
 print("hello aradhya")
-print('this the wrong commit')
+print('this the correct commit')
